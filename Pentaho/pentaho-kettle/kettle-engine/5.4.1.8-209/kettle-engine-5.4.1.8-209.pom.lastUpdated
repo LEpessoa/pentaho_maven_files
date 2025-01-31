@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 10 14:46:31 BRT 2023
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1644407255715
+c964467c72f80042c3d00055a57ff08dff1814e1@proxy-1dn.mb\:6060>@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1689011191396
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1689010935036
+https\://repo.spring.io/libs-release-local/.lastUpdated=1644407255857
+https\://repo.spring.io/milestone/.lastUpdated=1689010935233
+http\://0.0.0.0/.error=Could not transfer artifact pentaho-kettle\:kettle-engine\:pom\:5.4.1.8-209 from/to maven-default-http-blocker (http\://0.0.0.0/)\: authorization failed for http\://0.0.0.0/pentaho-kettle/kettle-engine/5.4.1.8-209/kettle-engine-5.4.1.8-209.pom, status\: 403 CTIM-BLQ-URLSemCategoria
+https\://repo.spring.io/libs-release-local/.error=
+https\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact pentaho-kettle\:kettle-engine\:pom\:5.4.1.8-209 from/to spring-snapshots (https\://repo.spring.io/libs-snapshot-local)\: transfer failed for https\://repo.spring.io/libs-snapshot-local/pentaho-kettle/kettle-engine/5.4.1.8-209/kettle-engine-5.4.1.8-209.pom, status\: 409 Conflict, proxy\: ProxyInfo{host\='proxy-1dn.mb', userName\='null', port\=6060, type\='http', nonProxyHosts\='null'}
+https\://repo.spring.io/milestone/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1689006779102
+https\://repo.maven.apache.org/maven2/.error=
+c964467c72f80042c3d00055a57ff08dff1814e1@proxy-1dn.mb\:6060>@default-spring-snapshots-https\://repo.spring.io/libs-snapshot-local/.lastUpdated=1644407341347

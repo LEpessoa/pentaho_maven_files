@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 11 08:51:28 BRT 2022
+https\://nexus.pentaho.org/content/groups/omni/.lastUpdated=1641901888777
+c964467c72f80042c3d00055a57ff08dff1814e1@proxy-1dn.mb\:6060>@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1641901469638
+http\://0.0.0.0/.error=Could not transfer artifact org.pentaho.reporting.engine\:classic-core\:pom\:9.2.0.3-424 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [pentaho-public (http\://nexus.pentaho.org/content/groups/omni/, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1641900786741
+https\://repo.maven.apache.org/maven2/.error=
